@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by macmini03 on 4/14/16.
+ * Created by DucNA
  */
 public class ListHorizontalAdapter extends BaseAdapter{
     Activity mContext;

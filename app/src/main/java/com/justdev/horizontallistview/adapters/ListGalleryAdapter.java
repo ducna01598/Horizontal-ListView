@@ -13,7 +13,7 @@ import com.justdev.horizontallistview.R;
 import java.util.List;
 
 /**
- * Created by macmini03 on 4/14/16.
+ * Created by DucNA
  */
 public class ListGalleryAdapter extends BaseAdapter{
     Activity mContext;

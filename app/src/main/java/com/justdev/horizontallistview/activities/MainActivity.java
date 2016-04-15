@@ -14,6 +14,9 @@ import com.justdev.horizontallistview.adapters.ListHorizontalAdapter;
 import java.util.Arrays;
 import java.util.List;
 
+/**
+ * Created by DucNA
+ */
 public class MainActivity extends AppCompatActivity {
 
     HorizontalListView listGallery;
