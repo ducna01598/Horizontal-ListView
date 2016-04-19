@@ -1,4 +1,4 @@
-package com.justdev.horizontallistview;
+package com.github.ducna01598.horizontallistview;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

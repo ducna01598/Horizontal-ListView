@@ -1,4 +1,4 @@
-package com.justdev.horizontallistview.adapters;
+package com.github.ducna01598.horizontallistview.adapters;
 
 import android.app.Activity;
 import android.view.LayoutInflater;
@@ -8,7 +8,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.justdev.horizontallistview.R;
+import com.github.ducna01598.horizontallistview.R;
 
 import java.util.List;
 

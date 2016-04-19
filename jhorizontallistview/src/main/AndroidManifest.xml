@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.justdev.android.jhorizontallistview">
+    package="com.github.ducna01598.jhorizontallistview">
 
     <application
         android:allowBackup="true"

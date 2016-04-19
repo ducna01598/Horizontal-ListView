@@ -1,4 +1,4 @@
-package com.justdev.horizontallistview.activities;
+package com.github.ducna01598.horizontallistview.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,10 +6,10 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.Toast;
 
-import com.justdev.android.jhorizontallistview.HorizontalListView;
-import com.justdev.horizontallistview.R;
-import com.justdev.horizontallistview.adapters.ListGalleryAdapter;
-import com.justdev.horizontallistview.adapters.ListHorizontalAdapter;
+import com.github.ducna01598.jhorizontallistview.HorizontalListView;
+import com.github.ducna01598.horizontallistview.R;
+import com.github.ducna01598.horizontallistview.adapters.ListGalleryAdapter;
+import com.github.ducna01598.horizontallistview.adapters.ListHorizontalAdapter;
 
 import java.util.Arrays;
 import java.util.List;

@@ -1,20 +1,15 @@
-package com.justdev.horizontallistview.adapters;
+package com.github.ducna01598.horizontallistview.adapters;
 
 import android.app.Activity;
-import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
-import android.widget.CheckBox;
 import android.widget.ImageView;
-import android.widget.RatingBar;
 import android.widget.TextView;
 
-import com.justdev.horizontallistview.R;
+import com.github.ducna01598.horizontallistview.R;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**

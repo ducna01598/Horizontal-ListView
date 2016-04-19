@@ -1,5 +1,5 @@
 
-package com.justdev.android.jhorizontallistview;
+package com.github.ducna01598.jhorizontallistview;
 
 import android.content.Context;
 import android.database.DataSetObserver;
