@@ -6,3 +6,6 @@
 .DS_Store
 /build
 /captures
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
